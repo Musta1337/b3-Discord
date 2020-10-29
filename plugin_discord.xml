@@ -1,0 +1,12 @@
+<configuration plugin="discord">
+  <settings name="data">
+    <set name="webhookUrl">webhook here</set>
+	<set name="hostname"></set>
+	<set name="clanName"></set>
+	<set name="clanWebsite"></set>
+	<set name="clanIcon"></set>
+	<set name="b3Version">Big Brother Bot v1.12</set>
+	<set name="clanBanAppeal"></set>
+	<set name="clanHeader"></set>
+  </settings>
+</configuration>
